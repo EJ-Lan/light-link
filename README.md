@@ -76,7 +76,3 @@ LightLink is a lightweight, efficient client-to-client messaging application bui
 - Mobile client integration  
 - Support for multimedia messages  
 - Integration with existing messaging protocols
-
----
-
-*LightLink aims to be a compact yet powerful playground for networking and C programming enthusiasts.*
